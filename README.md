@@ -75,7 +75,7 @@ Demonstrar competências práticas em:
 ## ⚠️ Observação Importante
 A marca **Cristal Eco** é fictícia e foi criada exclusivamente para fins educacionais e de portfólio.
 
-## 🗺️ Imagens
+## 🗺️ Abaixo estão exemplos visuais do processo de limpeza dos dados e do dashboard final desenvolvido no projeto:
 
 ### 🔹 Antes do tratamento de dados
 ![Antes - Parte 1](./img/antes_dados_cristaleco.png)
