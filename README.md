@@ -1,3 +1,6 @@
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Iniciante](https://img.shields.io/badge/Nível-Iniciante-yellow)
 # 💧🌿 PROJETO CRISTAL ECO: O projeto Cristal Eco simula o cenário real de uma empresa do segmento de produtos de limpeza sustentáveis, com análise das vendas ao longo do ano de 2024 + Dashboard e Análise de Vendas.
 
 Projeto fictício desenvolvido para fins educacionais e de portfólio, com foco em **limpeza, tratamento, análise e visualização de dados comerciais**.
