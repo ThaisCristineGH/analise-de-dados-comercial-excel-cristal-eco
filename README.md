@@ -75,10 +75,12 @@ Demonstrar competências práticas em:
 ## ⚠️ Observação Importante
 A marca **Cristal Eco** é fictícia e foi criada exclusivamente para fins educacionais e de portfólio.
 
-## 🗺️ Imagens:
+## 🗺️ Imagens
+
 ![Antes - Parte 1](./img/antes_dados_cristaleco.png)
 ![Depois - Parte 2](./img/depois_dados_cristaleco.png)
-![ Dashboard Interativo](./img/tabela_dinamica_cristaleco.png)
+![Dashboard Interativo](./img/tabela_dinamica_cristaleco.png)
+
 
 ### 📄 Relatório Técnico
 > 💡Relatório Técnico do Projeto Cristal Eco:
