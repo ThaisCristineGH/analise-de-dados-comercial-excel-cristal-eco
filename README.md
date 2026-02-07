@@ -2,13 +2,13 @@
 ![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Iniciante](https://img.shields.io/badge/Nível-Iniciante-yellow)
 
-# 💧🌿 PROJETO CRISTAL ECO: O projeto Cristal Eco simula o cenário real de uma empresa do segmento de produtos de limpeza sustentáveis, com análise das vendas ao longo do ano de 2024 + Dashboard e Análise de Vendas.
+# 🌿 Projeto Cristal Eco
 
-Projeto fictício desenvolvido para fins educacionais e de portfólio, com foco em **limpeza, tratamento, análise e visualização de dados comerciais**.
+ O Projeto Cristal Eco simula um cenário real de uma empresa fictícia (desenvoldida por mim) do segmento de produtos de limpeza sustentáveis, criado com o objetivo    de aplicar, na prática, conceitos de limpeza, tratamento, análise e visualização de dados comerciais.
+ 
+ A base de dados contempla as vendas ao longo do ano de 2024, permitindo análises temporais, identificação de padrões de consumo e avaliação de desempenho comercial.  Como resultado, o projeto entrega dashboards interativos e análises de vendas, organizados de forma clara e orientada à tomada de decisão.
 
 ## 🌱 Visão Geral
-O projeto **Cristal Eco** simula o cenário real de uma empresa do segmento de produtos de limpeza sustentáveis, com análise das vendas ao longo de 2024.
-Todo o projeto foi **integralmente criado por mim**, incluindo:
   * criação da marca fictícia
   * estruturação e padronização dos dados
   * limpeza e tratamento da base
@@ -16,7 +16,7 @@ Todo o projeto foi **integralmente criado por mim**, incluindo:
   * documentação do processo analítico em PDF
 
 ## 🎯 Objetivo do Projeto
-Demonstrar competências práticas em:
+ Demonstrar competências práticas em:
   * Data Cleaning
   * Padronização e tratamento de dados
   * Análise exploratória de dados (EDA)
@@ -30,14 +30,13 @@ Demonstrar competências práticas em:
   * 📂 **documentacao_tecnica/**: Relatório técnico do projeto inteiro + análise dos dados comerciais
   * 📂 **csv/**: dados em formato csv
 
-## 🗂️ Etapas do Desenvolvimento:
-
+## 💻 Etapas do Desenvolvimento:
 1. Dados_Brutos_2024
-  * Base original sem modificações.
+  * Base original sem modificações
   * Dados no formato bruto
-  * Inconsistências propositais (maiúsculas/minúsculas, padronização)
+  * Inconsistências propositais (maiúsculas/minúsculas/padronização)
   * Utilizada como fonte primária e referência
-2. Dados_Tratados_2024 - Base após o processo completo de limpeza e tratamento.
+2. Dados_Tratados_2024 - Base após o processo completo de limpeza e tratamento
   * Padronização textual (letras maiúsculas)
   * Correção de inconsistências
   * Ajuste de tipos de dados
@@ -55,15 +54,15 @@ Demonstrar competências práticas em:
   * Linha do tempo
   * Dashboard interativo
 4. Manual_Projeto
-  * Documentação completa do projeto em PDF.
+  * Documentação completa do projeto em PDF
   * Apresentação da marca Cristal Eco
   * Contexto e objetivo do projeto
   * Explicação do processo de análise
   * Interpretação dos resultados de 2024
   * Uso do dashboard e recursos analíticos
-5. Ferramentas Utilizadas
+
+## 💡 Ferramentas/técologias:
   * Microsoft Excel
-  * Limpeza e tratamento de dados
   * Tabelas dinâmicas
   * Segmentação de dados
   * Linha do tempo
@@ -75,9 +74,6 @@ Demonstrar competências práticas em:
   * identificação de tendências
   * comparação entre filiais e períodos
   * suporte à tomada de decisão estratégica
-
-## ⚠️ Observação Importante
-A marca **Cristal Eco** é fictícia e foi criada exclusivamente para fins educacionais e de portfólio.
 
 ## 🗺️ Abaixo estão exemplos visuais do processo de limpeza dos dados e do dashboard final desenvolvido no projeto:
 
